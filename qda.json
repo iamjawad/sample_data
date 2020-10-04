@@ -1,22 +1,22 @@
 
 [
   {
-    "target_id": 6,
-    "target_name": "Park"
+    "id": 6,
+    "name": "Park"
   },
   {
-    "target_id": 7,
-    "target_name": "Plaza"
+    "id": 7,
+    "name": "Plaza"
   },
   {
-    "target_id": 8,
-    "target_name": "Scheme"
+    "id": 8,
+    "name": "Scheme"
   },{
-    "target_id": 9,
-    "target_name": "Shop"
+    "id": 9,
+    "name": "Shop"
   }
   ,{
-    "target_id": 10,
-    "target_name": "Sports Complex"
+    "id": 10,
+    "name": "Sports Complex"
   }
 ]
