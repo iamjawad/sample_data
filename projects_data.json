@@ -1,21 +1,21 @@
 [
   {
-    "project_id": 1,
-    "project_name": "QDA"
+    "id": 1,
+    "name": "QDA"
   },
   {
-    "project_id": 2,
-    "project_name": "MCQ"
+    "id": 2,
+    "name": "MCQ"
   },
   {
-    "project_id": 3,
-    "project_name": "EDU"
+    "id": 3,
+    "name": "EDU"
   },{
-    "project_id": 4,
-    "project_name": "ENV"
+    "id": 4,
+    "name": "ENV"
   }
   ,{
-    "project_id": 5,
-    "project_name": "GIL"
+    "id": 5,
+    "name": "GIL"
   }
 ]
